@@ -2,7 +2,7 @@
   "name": "FILMOTEKA",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://sasha-khomiak.github.io/FILMOTEKA",
+  "homepage": "https://NataliiaDyrkach.github.io/FILMOTEKA",
   "scripts": {
     "start": "parcel src/*.html --open",
     "build": "parcel build src/*.html --public-url /FILMOTEKA/"
